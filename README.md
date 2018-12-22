@@ -3,6 +3,8 @@
 In this repository, we provide a mask for regions of the rat genome that show unusually high heterozygosity. We suggest that they be masked while performing genomic analysis on the rat rn6 genome.
 The coordinates correspond to the rn6 reference genome.
 
+## Directory Contents
+
 **The subfolder merged/ contains recommended mask files in bed format (corresponding to coordinates for the rn6 reference genome).**
 There are 8 files, one for each strain, as well as a file containing mask files representing the intersection of the 8 strains. 
 
