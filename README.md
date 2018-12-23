@@ -5,7 +5,7 @@ The coordinates correspond to the rn6 reference genome.
 
 ## Directory Contents
 
-**The subfolder merged/ contains recommended mask files in bed format (corresponding to coordinates for the rn6 reference genome).**
+**The subfolder ratacessibleregionsmaskfiles/ contains recommended mask files in bed format (corresponding to coordinates for the rn6 reference genome).**
 There are 8 files, one for each strain, as well as a file containing mask files representing the intersection of the 8 strains. 
 
 The subfolder unmerged/ contains mask files created without merging segments separated by a single window of low-heterozygosity.
